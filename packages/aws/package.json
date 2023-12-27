@@ -8,10 +8,10 @@
   "publishConfig": {
     "main": "dist/index.js"
   },
-  "homepage": "https://www.cloudcarbonfootprint.org/",
+  "homepage": "https://35.172.221.177/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloud-carbon-footprint/cloud-carbon-footprint.git",
+    "url": "git+https://github.com/Anna-LenaK/cloud-project-2.git",
     "directory": "packages/aws"
   },
   "keywords": [
